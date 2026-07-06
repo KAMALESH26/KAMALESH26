@@ -2,7 +2,7 @@
 
 Software Developer building AI-powered applications with Python, Flask, React & LLMs.
 
-Final-year IT student experienced in full-stack development, AI/ML integration, and cybersecurity fundamentals — through internships and hands-on projects like an AI trend-intelligence platform and an accessible learning platform.
+IT graduate experienced in full-stack development, AI/ML integration, and cybersecurity fundamentals — through internships and hands-on projects like an AI trend-intelligence platform and an accessible learning platform.
 
 - 🔭 Currently building **PANDA** — an intelligent automation framework using the Gemini API
 - 🌱 Learning: advanced NLP, LLM-powered application architecture
