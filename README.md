@@ -38,5 +38,5 @@ IT graduate experienced in full-stack development, AI/ML integration, and cybers
 
 ### 📊 GitHub Stats
 
-![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAMALESH26&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAMALESH26&layout=compact&hide_border=true)
+![Kamalesh's GitHub stats](https://github-readme-stats-git-masterrstaib.vercel.app/api?username=KAMALESH26&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaib.vercel.app/api/top-langs/?username=KAMALESH26&layout=compact&hide_border=true)
